@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace kiem_tra_giua_ki
 {
     public class Giangvien
-    {Console.OutputEncoding = Encoding.UTF8;
+    {
         // thuộc tính chung 
         public string Maso { get; set; }
         public string Hoten { get; set; }
